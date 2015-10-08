@@ -18,6 +18,9 @@ To start the app type `npm start` in project's root directory
 # Structure
 
 [PROJECT_ROOT]/index.js runs the whole app using `electron .`
+
 [PROJECT_ROOT]/server holds the LoopBack server part
+
 [PROJECT_ROOT]/common/models holds LoopBack models
+
 [PROJECT_ROOT]/client holds the AngularJs app
